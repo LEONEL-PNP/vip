@@ -1073,16 +1073,16 @@ switch (command) {
 
 ╰•⋆҈͜͡➣⋆⋆҈͜͡ ⋆⸙⋆҈͜͡✪⋆҈͜͡ ⋆⸙⋆҈͜͡ ◄⋆҈͜͡•╯
 
-          ৎ❥̤֟٭𝐀𝐧𝐝𝐫𝐞𝐚✿̤֟٭
+          ❀ℒ𝖀𝚴𝜜☽ ☾
 
 ╭╾┅≼☬≽⋆ͦ☬⋆ͦ≼☬≽┅╼╮
-        TURBO⚡BOT 👇🏻 https://youtu.be/PqUZPvDN-yg?sub_confirmatión=1
+        TURBO⚡BOT 👇🏻 
 ✦˖⏝࣪꒷꒦꒦꒷꒦⏝⏝꒦꒷˖ ࣪✦
 
 ╭─═•⋆ঈ❥🔮❥ঈ⋆•═─╮
 ╽    ➣͜͡᳆⃟✪Info✪᳆͜͡➣    ╽
 ├➤͜͡⚡ ${prefix}canal                ❦᭄
-├➤͜͡🌷 ${prefix}creador            ❦᭄
+├➤͜͡🌷 ${prefix}dueño            ❦᭄
 ├➤͜͡🌟 ${prefix}reglas              ❦᭄
 ├➤͜͡🍁 ${prefix}instalar            ❦᭄
 ├➤͜͡🌻 ${prefix}bug                  ❦᭄
